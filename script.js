@@ -7,7 +7,7 @@ signUpBtn.addEventListener("click", (e) =>{
   e.preventDefault();
   formsWrapper.classList.add("change");
 })
-signUpBtn.addEventListener("click", (e) =>{
+signInBtn.addEventListener("click", (e) =>{
   e.preventDefault();
 
 })
